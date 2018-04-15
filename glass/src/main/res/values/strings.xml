@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">UGlass</string>
+    <string name="title_activity_ride_card_service">Ride LiveCard</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_logout">Logout</string>
+    <string name="tap_to_login">Tap to login</string>
+    <string name="tap_to_ride">@string/footer_tap_to_ride</string>
+    <string name="title_activity_connect">Uber login</string>
+    <string name="title_updating">Updating…</string>
+    <string name="title_connecting">Connecting…</string>
+    <string name="title_network_error">Network error</string>
+    <string name="title_api_error_s">API error\n%s</string>
+    <string name="msg_drive_with_s">Driving with %s</string>
+    <string name="tap_to_retry">Tap to retry</string>
+    <string name="tap_to_obtain">Tap to obtain</string>
+    <string name="footer_tap_to_ride">Tap to ride</string>
+    <string name="footer_tap_to_ride_sandbox">Tap to ride (sandbox)</string>
+    <string name="msg_tokens_missing">Token missing or expired</string>
+    <string name="msg_waiting_for_connection">Waiting for connection</string>
+    <string name="msg_connected_to_s">Connected to %s</string>
+    <string name="msg_connection_error_s">Error occurred:\n%s\nTap to retry</string>
+    <string name="msg_token_format_error">Token format error\nTap to retry</string>
+    <string name="msg_token_expired">Token expired\nTap to retry</string>
+    <string name="msg_token_received">Token received</string>
+    <string name="msg_tap_to_start">Token expired\nTap to start listening for companion app</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UGlass</string>
+
+    <string name="copy_access_token_to_clipboard">Copy Access Token to Clipboard</string>
+    <string name="clear_access_token">Clear Access Token</string>
+    <string name="user_cancels_message">User cancels login</string>
+    <string name="login_error_message">Error occurred during login: %s</string>
+    <string name="custom_login_text">Sign in</string>
+    <string name="authorization_code_message">Received an authorization code:\n %s</string>
+    <string name="greeting">Hello %s!</string>
+    <string name="cb_sandbox">Sandbox</string>
+    <string name="btn_send">Send token to device</string>
+    <string name="msg_send_failed">Send failed</string>
+    <string name="lbl_login_hint">Sign in to Uber and send an access token to the Glass while Glass is in \'Waiting for connection\' mode\nIf you\'ve got a bottom sheet popup with login error on Uber authorization screen, do not tap close. Just tap outside the window, scroll the text up, and press 'Accept'</string>
+    <string name="lbl_disclaimer">Author is not affiliated with or endorsed by Uber in any way. Use at your own risk.</string>
+</resources>
